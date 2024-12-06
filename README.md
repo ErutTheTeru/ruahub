@@ -1,2 +1,2 @@
-# ruahub
-this is rua hub script
+# Rua Hub
+This is Rua Hub
